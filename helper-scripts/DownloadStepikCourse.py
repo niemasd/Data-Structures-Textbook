@@ -75,7 +75,7 @@ def fetch_objects(obj_class, obj_ids):
 # Perform the fetches
 course = fetch_object('course', course_id)
 sections = fetch_objects('section', course['sections'])
-print("Ready to download course: " + course['title'])
+print("Ready to download course: " + course['title'] + '\n')
 
 unit_ids = [unit for section in sections for unit in section['units']]
 units = fetch_objects('unit', unit_ids)
