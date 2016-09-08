@@ -1,1 +1,1 @@
-{"block": {"feedback_wrong": "", "subtitles": {}, "animation": null, "name": "text", "text": "Generated lesson", "tests_archive": null, "source": null, "subtitle_files": [], "options": {}, "feedback_correct": "", "video": null}, "id": "122237", "time": "2016-09-06T23:49:46.111693"}
+{"id": "122237", "block": {"feedback_correct": "", "name": "text", "feedback_wrong": "", "text": "Generated lesson", "subtitle_files": [], "source": null, "animation": null, "video": null, "tests_archive": null, "options": {}, "subtitles": {}}, "time": "2016-09-07T23:41:33.407474"}
