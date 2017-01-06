@@ -1,7 +1,7 @@
+#!/usr/local/bin/python
 '''
 Niema Moshiri 2016
 Download a Stepik course
-Run with Python 3
 '''
 USAGE = "USAGE: python DownloadStepikCourse.py <course_ID>"
 # imports
@@ -93,7 +93,7 @@ for secIndex, section in enumerate(sections):
 
     for unitIndex, unit in enumerate(units):
         if unitIndex > 0:
-            print()
+            print('')
         print("--- Downloading Unit " + str(unitIndex+1) + " of " + str(len(units)) + " ---")
         lesson_id = unit['lesson']
         lesson = fetch_object('lesson', lesson_id)
