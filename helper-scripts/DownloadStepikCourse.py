@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
 '''
 Niema Moshiri 2016
 Download a Stepik course
