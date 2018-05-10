@@ -6,7 +6,7 @@ This interactive textbook was written with the intention of teaching Computer Sc
 
 This textbook utilizes the Active Learning approach to instruction, meaning it has various activities embedded throughout to help stimulate your learning and improve your understanding of the materials we will cover. You will encounter **STOP and Think** questions that will help you reflect on the material, **Exercise Breaks** that will test your knowledge and understanding of the concepts discussed, and **Code Challenges** that will allow you to actually implement some of the algorithms we will cover.
 
-The source code for the course is made available on this GitHub repository and will be updated as the text itself is updated. To access the actual textbook itself (which is completely free to access), join the Stepik course at the following link: [https://stepik.org/course/Data-Structures-579](https://stepik.org/course/Data-Structures-579)
+The source code for the course is made available on this GitHub repository and will be updated as the text itself is updated. To access the actual textbook itself (which is completely free to access), join the edX course, [*Data Structures: An Active Learning Approach*](https://www.edx.org/course/data-structures-an-active-learning-approach).
 
 ### About the Authors
 ---
